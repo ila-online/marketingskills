@@ -2,7 +2,7 @@
 
 ## Documento de Referencia para Creación de Contenido
 
-**Cuenta:** @isaleala (Instagram, TikTok)
+**Cuenta:** @isaleala (Instagram, TikTok, YouTube)
 **Nombre:** Isabella Leal Aguilar
 **Idioma principal:** Español mexicano
 **Rol en el ecosistema:** Hub personal — todo empieza aquí
@@ -118,27 +118,111 @@ Los temas que no caben en los otros pilares. Feminismo vivido (no teórico). Pri
 
 Cada video es una entrada de diario en video. Tu voz narra. Las imágenes acompañan. El resultado se siente como una película corta sobre un momento de tu vida.
 
-### Estructura de Video: Los 4 Actos
+Hay dos formatos según la plataforma:
+- **Formato Corto** (Instagram Reels / TikTok): 1:30 – 2:30 min
+- **Formato Largo** (YouTube): 8 – 18 min
 
-**ACTO 1 — El Momento (0-3 seg)**
+---
+
+### Formato Corto — Reels / TikTok (1:30 – 2:30 min)
+
+**ACTO 1 — El Momento (0-4 seg)**
 La imagen más intrigante del video. Sin explicación. Sin contexto.
 - En pantalla: B-roll + texto del hook
 - Audio: Silencio o música suave. NO voz.
 
-**ACTO 2 — El Contexto (3-20 seg)**
+**ACTO 2 — El Contexto (4-30 seg)**
 Cómo llegaste a ese momento. Narrado en voiceover.
 - En pantalla: B-roll de los pasos previos
 - Audio: Tu voz entra. Suave, como escribiendo en tu diario.
 
-**ACTO 3 — El Giro (20-40 seg)**
-Lo que no esperabas. El contraste. La reflexión central.
-- En pantalla: El momento central del video
-- Audio: Tu voz llega al punto.
+**ACTO 3 — El Giro (30-80 seg)**
+Lo que no esperabas. El contraste. La reflexión central. Aquí vive el peso del video — hay espacio para desarrollar la idea, no solo enunciarla.
+- En pantalla: El momento central del video, con tomas variadas
+- Audio: Tu voz llega al punto. Puede haber una pausa de 3-5 seg de solo música en medio.
 
-**ACTO 4 — La Respiración (últimos 5-10 seg)**
+**ACTO 4 — La Respiración (últimos 10-15 seg)**
 Silencio visual. Una toma larga. Una frase final o simplemente música.
 - En pantalla: Toma amplia o detalle quieto
 - Audio: Una frase corta, o solo música. Corte limpio.
+
+---
+
+### Formato Largo — YouTube (8 – 18 min)
+
+YouTube no es TikTok editado a 10 minutos. Es un formato distinto con sus propias reglas narrativas.
+
+#### La Promesa del Video Largo
+
+En YouTube, el espectador te da tiempo. A cambio, tú le das profundidad — algo que no cabe en 2 minutos: contexto rico, contradicciones sin resolver, momentos de silencio, y conclusiones que se ganan.
+
+#### Estructura: Los 6 Movimientos
+
+**MOVIMIENTO 1 — La Entrada (0:00 – 0:45)**
+Empieza *in media res*: en el medio de la escena, no antes de ella. El espectador llega cuando ya está pasando algo.
+- Primer plano sin presentarte. Sin "hola, bienvenidos a mi canal."
+- Tu voz en voiceover sobre B-roll del momento más fuerte.
+- Al final de los 45 segundos, una pregunta que justifica los siguientes 15 minutos.
+
+**MOVIMIENTO 2 — El Mundo Antes (0:45 – 3:00)**
+El antes. El contexto que hace que el giro importe.
+- ¿Quién eras / qué pensabas / cómo era tu vida antes de este momento?
+- B-roll diverso: lugares, objetos, momentos cotidianos.
+- Tono: tranquilo, casi mundano. Construyes expectativa sin que se note.
+
+**MOVIMIENTO 3 — La Ruptura (3:00 – 6:00)**
+El momento que cambió algo. No tiene que ser dramático — puede ser una frase que leíste, una conversación, una decisión pequeña.
+- Aquí el ritmo cambia levemente. Más tomas en el presente.
+- Tu voz se vuelve más lenta, más deliberada.
+- Puedes aparecer en cámara por primera vez aquí — si lo haces, que sea mirando al cuarto, no al lente.
+
+**MOVIMIENTO 4 — La Exploración (6:00 – 12:00)**
+El corazón del video. Aquí piensas en voz alta.
+- No resuelves todavía — exploras. Das vuelta a la idea.
+- Puedes citar un libro, una conversación, un autor.
+- Puedes cortar a un espacio distinto (biblioteca, montaña, otra ciudad) para subrayar un cambio de perspectiva.
+- Permite el silencio. Una toma de 8-10 segundos sin voz no es un error — es respiración.
+
+**MOVIMIENTO 5 — El Aterrizaje (12:00 – 15:30)**
+Llegas a algún lugar. No necesita ser una conclusión limpia — puede ser una tensión que aprendiste a sostener.
+- ¿Qué sabes ahora que no sabías al principio?
+- ¿Qué pregunta ya no te haces? ¿Cuál sigue?
+- Tono más íntimo. Como el final de una carta.
+
+**MOVIMIENTO 6 — El Cierre (últimos 60-90 seg)**
+Una toma larga. Música. Silencio casi total.
+- Sin llamada a la acción forzada.
+- Si hay CTA, que sea una sola línea, natural: "Si esto te resonó, hay más en los comentarios."
+- El video termina como termina una película — se siente completo.
+
+#### Tipos de Videos para YouTube
+
+| Tipo | Duración | Descripción |
+|---|---|---|
+| **El Diario Extendido** | 8-12 min | Una experiencia vivida, contada con profundidad. Un viaje, un semestre, un cambio de ciudad. |
+| **La Conversación Conmigo** | 10-15 min | Una idea que te tiene dando vueltas. Piensas en voz alta sin llegar a una conclusión limpia. |
+| **El Día En Mi Vida (pero lento)** | 12-18 min | Un día específico y significativo. No "un día normal" — un día que importó. |
+| **La Carta** | 8-10 min | Un video dirigido a alguien o a una versión tuya. Pasada, futura, hipotética. |
+| **El Contraste** | 10-14 min | Dos versiones de algo: dos ciudades, dos etapas de tu vida, dos formas de ver lo mismo. |
+
+#### Lo que es diferente en YouTube vs. Reels
+
+| Reels/TikTok | YouTube |
+|---|---|
+| Gancha en 3 segundos | Da contexto en los primeros 45 seg |
+| Un solo punto central | Puede tener 2-3 capas de idea |
+| Edición apretada | Respira. Los silencios cuestan, pero valen. |
+| Texto en pantalla frecuente | Texto solo en momentos clave |
+| Termina antes de que quieran | Termina cuando la historia terminó |
+| Optimizado para loop | Optimizado para que vuelvan |
+
+#### Reglas de YouTube
+
+- **No empieces con "hola soy Isabella."** Empieza con la historia.
+- **Capítulos en la descripción** — facilita la navegación y mejora el SEO.
+- **Miniatura y título**: la pregunta del video en lenguaje llano. Sin clickbait. Sin mayúsculas en todo.
+- **Subtítulos en español** — siempre. En inglés si el tema tiene audiencia internacional natural.
+- **Publica mensual**, no semanal. Un video largo bueno > cuatro mediocres.
 
 ### Reglas de Edición
 
@@ -241,8 +325,9 @@ Segundo 3+:   Tu voz entra narrando
 5. ¿Qué imagen es la más fuerte visualmente?
    → _______________________________________________
 
-6. ¿En qué cuenta vive esto?
-   → @isaleala (siempre primero)
+6. ¿En qué cuenta y formato vive esto?
+   → @isaleala Reels/TikTok (siempre primero)
+   → ¿Tiene profundidad para YouTube? ___ (¿hay más de 2 capas de idea?)
    → ¿Tiene capa para @lablegal.co? ___
    → ¿Tiene capa para @legallycurly_mx? ___
 ```
@@ -307,11 +392,12 @@ Segundo 3+:   Tu voz entra narrando
 
 ### Mínimo viable por semana:
 
-| Cuenta | Posts/semana | Formato |
-|---|---|---|
-| @isaleala | 2-3 | VLOGs cortos (Reels/TikTok) |
-| @lablegal.co | 1-2 | Carruseles o Reels analíticos |
-| @legallycurly_mx | 1 | Reel o texto con insight |
+| Cuenta / Plataforma | Frecuencia | Duración | Formato |
+|---|---|---|---|
+| @isaleala (Reels/TikTok) | 2-3 por semana | 1:30 – 2:30 min | Diario filmado corto |
+| @isaleala (YouTube) | 1 por mes | 8 – 18 min | Diario filmado largo |
+| @lablegal.co | 1-2 por semana | variable | Carruseles o Reels analíticos |
+| @legallycurly_mx | 1 por semana | variable | Reel o texto con insight |
 
 ### Filmación diaria (2 minutos máximo):
 
@@ -337,14 +423,16 @@ Cada día, filma estas 4 tomas. No necesitas saber para qué son todavía:
 
 Cuando tengas duda de "¿cómo debería verse/sentirse este video?", revisa estos creadores:
 
-| Creador | Qué aprender |
-|---|---|
-| Matt D'Avella | Ritmo, voiceover escrito, minimalismo visual |
-| Nathaniel Drew | Textura en edición, storytelling orgánico, movimiento sutil |
-| Sorelle Amore | Vida internacional como contenido, autenticidad, música como emoción |
-| Emilio Antún | Diario filmado en español, reflexión desde lo cotidiano |
-| Alfonso Aguirre | Tono contemplativo, pausas como herramienta |
-| Sandy Fayad V | Abogada + persona, storytelling en español |
+| Creador | Plataforma clave | Qué aprender |
+|---|---|---|
+| Matt D'Avella | YouTube | Ritmo, voiceover escrito, minimalismo visual, estructura larga |
+| Nathaniel Drew | YouTube / Reels | Textura en edición, storytelling orgánico, movimiento sutil |
+| Sorelle Amore | YouTube | Vida internacional como contenido, autenticidad, música como emoción |
+| Emilio Antún | Reels | Diario filmado en español, reflexión desde lo cotidiano |
+| Alfonso Aguirre | TikTok / Reels | Tono contemplativo, pausas como herramienta |
+| Sandy Fayad V | Reels | Abogada + persona, storytelling en español |
+| struthless | YouTube | Cómo pensar en voz alta en video largo sin perder al espectador |
+| Sabrina Bahsoun | YouTube | Formato "carta a mí misma", intimidad en cámara, videos cortos con peso |
 
 ### La regla final de referencia:
 Inspírate en su técnica, nunca en su contenido. Tu vida es tu contenido. Su craft es tu herramienta.
